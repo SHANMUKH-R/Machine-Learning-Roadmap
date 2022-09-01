@@ -22,14 +22,17 @@ So why exactly? There is a popular saying that goes as
 
 Purpose:
 
-<details><summary>**Identify Missing Data** </summary>
-<p>
+**Identify Missing Data** 
+
 > Missing data can disrupt data patterns. This is common in real world senarios and it's an important step to handle missing data instead of removing the colums or rows because of a few missing cells.
-  </p></details>
 
-> **Identify outliers or anomalous data** - An outliner is a datapoint that lies extrmely high or extremely low from rest of the neighboring co-existing values. Simply, an datapoint that standsout a lot. An anamalous datapoint is similar to outliners and can be defined in a better way as rare item that differ significantly from standard behaviors or patterns.
+**Identify outliers or anomalous data** 
 
-> **Remove Inconsistencies** - Incorrect spellings, incorrectly populated columns and rows (eg.: salary populated in gender column), duplicated data are examples of inconsitencies.
+>  An outliner is a datapoint that lies extrmely high or extremely low from rest of the neighboring co-existing values. Simply, an datapoint that standsout a lot. An anamalous datapoint is similar to outliners and can be defined in a better way as rare item that differ significantly from standard behaviors or patterns.
+
+**Remove Inconsistencies** 
+
+>  Incorrect spellings, incorrectly populated columns and rows (eg.: salary populated in gender column), duplicated data are examples of inconsitencies.
 
 ## Data Preprocessing - Step 1 - Importing Libraries
 
