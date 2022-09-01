@@ -49,7 +49,8 @@ So why exactly? There is a popular saying that goes as
 
 ## Data Preprocessing - Step 2 - Handling Missing Data
 
-
+**How**
+> SimpleImputer is a scikit-learn class which is helpful in handling the missing data in the dataset. Replace missing values using a descriptive statistic (e.g. mean, median, or most frequent) along each column, or using a constant value.
 
 <p align='center'><img width="520" alt="Handling Missing Datas" src="https://user-images.githubusercontent.com/71865643/187905086-09ac03a1-ea51-4538-857a-3f7ffa082150.png"></p>
 
