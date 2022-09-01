@@ -42,9 +42,12 @@ So why exactly? There is a popular saying that goes as
 
 > **Matplotlib** - A comprehensive library for creating static, animated and interactive visualizations in python. Supports various types of graphical representations like Bar Graphs, Histograms, Line Graph, Scatter Plot, Stem Plots, etc.
 
+
 <p align="center">
 <img width="520" alt="Importing libraries" src="https://user-images.githubusercontent.com/71865643/187871198-eb8c90bf-8cd8-42df-9a91-0d92d3db8e10.png"></p>
 
 ## Data Preprocessing - Step 2 - Handling Missing Data
+
+<p align='center'><img width="520" alt="Handling missing data" src="https://user-images.githubusercontent.com/71865643/187904529-7d215052-5b2c-4087-aadb-bcbf1833ee48.png"></p>
 
 
