@@ -5,4 +5,5 @@ a topic but teaching does the job. I will try to make the code as clear as possi
 then I'd happily merge a PR.
 
 ## Data Preprocessing
-<center><img width="520" alt="Importing libraries" src="https://user-images.githubusercontent.com/71865643/187871198-eb8c90bf-8cd8-42df-9a91-0d92d3db8e10.png"></center>
+<p align="center">
+<img width="520" alt="Importing libraries" src="https://user-images.githubusercontent.com/71865643/187871198-eb8c90bf-8cd8-42df-9a91-0d92d3db8e10.png"></p>
