@@ -20,6 +20,10 @@ So why exactly? There is a popular saying that goes as
 
 >In real world senarios, there’s always noise and missing values. This happens due to manual errors, unexpected events, technical issues, or a variety of other obstacles.
 
+Purpose: 
+> **Identify Missing Data** - Missing data can disrupt data patterns. This is common in real world senarios and it's an important step to handle missing data instead of removing the colums or rows because of a few missing cells.
+> **Identify outliers or anomalous data** - An outliner is a datapoint that lies extrmely high or extremely low from rest of the neighboring co-existing values. Simply, an datapoint that standsout a lot. An anamalous datapoint is similar to outliners and can be defined in a better way as rare item that differ significantly from standard behaviors or patterns.
+
 ## Importing Libraries
 
 <p align="center">
