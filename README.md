@@ -20,11 +20,20 @@ So why exactly? There is a popular saying that goes as
 
 >In real world senarios, there’s always noise and missing values. This happens due to manual errors, unexpected events, technical issues, or a variety of other obstacles.
 
-Purpose: 
-> **Identify Missing Data** - Missing data can disrupt data patterns. This is common in real world senarios and it's an important step to handle missing data instead of removing the colums or rows because of a few missing cells.
+Purpose:
+
+<details><summary>**Identify Missing Data** </summary>
+<p>
+> Missing data can disrupt data patterns. This is common in real world senarios and it's an important step to handle missing data instead of removing the colums or rows because of a few missing cells.
+  </p></details>
+
 > **Identify outliers or anomalous data** - An outliner is a datapoint that lies extrmely high or extremely low from rest of the neighboring co-existing values. Simply, an datapoint that standsout a lot. An anamalous datapoint is similar to outliners and can be defined in a better way as rare item that differ significantly from standard behaviors or patterns.
 
-## Importing Libraries
+> **Remove Inconsistencies** - Incorrect spellings, incorrectly populated columns and rows (eg.: salary populated in gender column), duplicated data are examples of inconsitencies.
+
+## Data Preprocessing - Step 1 - Importing Libraries
+
+> **Pandas** - Open source python package most widely used for data manupulation and analysis
 
 <p align="center">
 <img width="520" alt="Importing libraries" src="https://user-images.githubusercontent.com/71865643/187871198-eb8c90bf-8cd8-42df-9a91-0d92d3db8e10.png"></p>
