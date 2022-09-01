@@ -4,7 +4,7 @@ This is a step by step process where you explore what you wanna learn, know wher
 a topic but teaching does the job. I will try to make the code as clear as possible. This repository is contribution friendly, so if you feel you want to add something 
 then I'd happily merge a PR.
 
-## Data Preprocessing
+## DATA PREPROCESSING
 Coversion of raw data into a clean dataset and making it suitable for a machine learning model. 
 
  **Myth** - Data is collected, organised and fed into model.
@@ -13,6 +13,13 @@ Coversion of raw data into a clean dataset and making it suitable for a machine 
 
 ![data scientists pie chart](https://user-images.githubusercontent.com/71865643/187874766-d8560679-42af-4c11-9a73-8c7c33e8523b.jpg)
 
-### Importing Libraries
+## Why Data Preprocessing
+
+So why exactly? There is a popular saying that goes as 
+> **"if garbage goes in, garbage comes out"**. 
+In real world senarios, there’s always noise and missing values. This happens due to manual errors, unexpected events, technical issues, or a variety of other obstacles.
+
+## Importing Libraries
+
 <p align="center">
 <img width="520" alt="Importing libraries" src="https://user-images.githubusercontent.com/71865643/187871198-eb8c90bf-8cd8-42df-9a91-0d92d3db8e10.png"></p>
