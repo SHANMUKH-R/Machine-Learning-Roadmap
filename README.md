@@ -11,7 +11,7 @@ Coversion of raw data into a clean dataset and making it suitable for a machine 
 
 **Fact** - **FORBES**: Data scientists spend around 80% of their time on preparing and managing data. Data preprocessing is the method of analyzing, filtering, transforming and encoding data so that a machine learning algorithm can understand and work with the processed output.
 ![data scientists pie chart](https://user-images.githubusercontent.com/71865643/187874766-d8560679-42af-4c11-9a73-8c7c33e8523b.jpg)
-<img align="right" width="100" height="100" src="(https://user-images.githubusercontent.com/71865643/187874766-d8560679-42af-4c11-9a73-8c7c33e8523b.jpg">
+<img align="right" width="600" height="600" src="(https://user-images.githubusercontent.com/71865643/187874766-d8560679-42af-4c11-9a73-8c7c33e8523b.jpg">
 
 ### Importing Libraries
 <p align="center">
