@@ -38,5 +38,9 @@ So why exactly? There is a popular saying that goes as
 
 > **Pandas** - Open source python package most widely used for data manupulation and analysis
 
+> **Numpy** - Numpy is a python package for handling multi-dimensional array and matrix with the help of large collection of high-level mathematical functions.
+
+> **Matplotlib** - A comprehensive library for creating static, animated and interactive visualizations in python. Supports various types of graphical representations like Bar Graphs, Histograms, Line Graph, Scatter Plot, Stem Plots, etc.
+
 <p align="center">
 <img width="520" alt="Importing libraries" src="https://user-images.githubusercontent.com/71865643/187871198-eb8c90bf-8cd8-42df-9a91-0d92d3db8e10.png"></p>
