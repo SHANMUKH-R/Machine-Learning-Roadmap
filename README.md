@@ -7,11 +7,10 @@ then I'd happily merge a PR.
 ## Data Preprocessing
 Coversion of raw data into a clean dataset and making it suitable for a machine learning model. 
 
-#### **Myth** - 
-Data is collected, organised and fed into model.
+ **Myth** - Data is collected, organised and fed into model.
 
-#### **Fact** - 
-**FORBES**: Data scientists spend around 80% of their time on preparing and managing data. Data preprocessing is the method of analyzing, filtering, transforming and encoding data so that a machine learning algorithm can understand and work with the processed output.
+**Fact** - **FORBES**: Data scientists spend around 80% of their time on preparing and managing data. Data preprocessing is the method of analyzing, filtering, transforming and encoding data so that a machine learning algorithm can understand and work with the processed output.
+
 ![data scientists pie chart](https://user-images.githubusercontent.com/71865643/187874766-d8560679-42af-4c11-9a73-8c7c33e8523b.jpg)
 
 ### Importing Libraries
