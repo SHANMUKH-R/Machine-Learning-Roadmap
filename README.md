@@ -5,7 +5,7 @@ a topic but teaching does the job. I will try to make the code as clear as possi
 then I'd happily merge a PR.
 
 ## DATA PREPROCESSING
-Coversion of raw data into a clean dataset and making it suitable for a machine learning model. 
+>Coversion of raw data into a clean dataset and making it suitable for a machine learning model. 
 
  **Myth** - Data is collected, organised and fed into model.
 
@@ -17,7 +17,8 @@ Coversion of raw data into a clean dataset and making it suitable for a machine 
 
 So why exactly? There is a popular saying that goes as 
 > **"if garbage goes in, garbage comes out"**. 
-In real world senarios, there’s always noise and missing values. This happens due to manual errors, unexpected events, technical issues, or a variety of other obstacles.
+
+>In real world senarios, there’s always noise and missing values. This happens due to manual errors, unexpected events, technical issues, or a variety of other obstacles.
 
 ## Importing Libraries
 
