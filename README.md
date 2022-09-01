@@ -46,8 +46,9 @@ So why exactly? There is a popular saying that goes as
 <p align="center">
 <img width="520" alt="Importing libraries" src="https://user-images.githubusercontent.com/71865643/187871198-eb8c90bf-8cd8-42df-9a91-0d92d3db8e10.png"></p>
 
+
 ## Data Preprocessing - Step 2 - Handling Missing Data
 
-<p align='center'><img width="520" alt="Handling missing data" src="https://user-images.githubusercontent.com/71865643/187904529-7d215052-5b2c-4087-aadb-bcbf1833ee48.png"></p>
+<p align='center'><img width="520" alt="Handling Missing Datas" src="https://user-images.githubusercontent.com/71865643/187905086-09ac03a1-ea51-4538-857a-3f7ffa082150.png"></p>
 
 
