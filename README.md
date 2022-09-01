@@ -7,7 +7,7 @@ then I'd happily merge a PR.
 ## DATA PREPROCESSING
 >Coversion of raw data into a clean dataset and making it suitable for a machine learning model. 
 
- **Myth** - Data is collected, organised and fed into model.
+**Myth** - Data is collected, organised and fed into model.
 
 **Fact** - **FORBES**: Data scientists spend around 80% of their time on preparing and managing data. Data preprocessing is the method of analyzing, filtering, transforming and encoding data so that a machine learning algorithm can understand and work with the processed output.
 
@@ -20,7 +20,7 @@ So why exactly? There is a popular saying that goes as
 
 >In real world senarios, there’s always noise and missing values. This happens due to manual errors, unexpected events, technical issues, or a variety of other obstacles.
 
-Purpose:
+## Purpose:
 
 **Identify Missing Data** 
 
