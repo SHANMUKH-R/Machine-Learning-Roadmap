@@ -91,3 +91,14 @@ Wanna learn more? Click here [SimpleImputer()](https://scikit-learn.org/stable/m
 
 Wanna learn more? Click here [LabelEncoder()](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html)
 
+
+<details><summary>Most Frequently asked question - Should Feature Scaling be applied before or after splitting the dataset? </summary>
+<p>
+
+Feature scaling is applied after splitting the data. The test set is there solely for performance assessment of your model, and it should not be used in any stage of model building, including feature selection because there can be information lekage.
+  
+It is useful to imagine that you simply do not have any access in any test set during the model fitting process (which includes feature importance); you should treat the test set as literally unseen data (and, since unseen, they could not have been used for feature importance scores).
+
+</p>
+</details>
+
