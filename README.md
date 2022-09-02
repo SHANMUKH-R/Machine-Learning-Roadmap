@@ -73,3 +73,13 @@ So why exactly? There is a popular saying that goes as
 
 Wanna learn more? Click here [SimpleImputer()](https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html)
 
+## Data Preprocessing - Step 3 - Encoding Categorical Data
+
+**why**
+> Most of the machines require all the independent and dependent variables i.e input and output features to be numeric. We need to convert these categorical variables to numbers such that the model is able to understand and extract valuable information.
+
+**How**
+> We use LabelEncoder from sklearn.preprocessing to encode target labels. LabelEncoder encodes target labels with value between 0 and n_classes-1.
+
+
+
