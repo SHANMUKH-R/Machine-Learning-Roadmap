@@ -81,5 +81,6 @@ Wanna learn more? Click here [SimpleImputer()](https://scikit-learn.org/stable/m
 **How**
 > We use LabelEncoder from sklearn.preprocessing to encode target labels. LabelEncoder encodes target labels with value between 0 and n_classes-1.
 
+<p align="center"><img width="691" alt="Encoding Independent Categorical data" src="https://user-images.githubusercontent.com/71865643/188052094-06a7a207-665b-4155-bd90-1fd8a5942795.png"></p>
 
 
