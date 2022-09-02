@@ -109,6 +109,7 @@ Wanna learn more? Click here [LabelEncoder()](https://scikit-learn.org/stable/mo
 **How**
 > The train_test_split function of the sklearn.model_selection package in Python splits arrays or matrices into random subsets for train and test data, respectively.
 
-<p align="center"><img width="882" alt="train_test_split" src="https://user-images.githubusercontent.com/71865643/188059699-47dde462-3d85-42d2-8f23-fb3c6db79ff8.png"></p>
+
+<p align="center">![Screenshot 2022-09-02 100802](https://user-images.githubusercontent.com/71865643/188060137-7437666f-30b9-490e-9c43-5db7fa608a26.png)</p>
 
 
