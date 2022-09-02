@@ -112,5 +112,6 @@ Wanna learn more? Click here [LabelEncoder()](https://scikit-learn.org/stable/mo
 
 ![train_test_split](https://user-images.githubusercontent.com/71865643/188060253-ca39b734-764e-413f-a339-88900688135d.png)
 
+Wanna learn more? Click here [train_test_split()](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
 
 
