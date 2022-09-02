@@ -58,17 +58,18 @@ So why exactly? There is a popular saying that goes as
 
 > **missing_values** - For pandas dataframes with nullable integer dtypes with missing values, missing_values can be set to either np.nan or pd.NA.
 
-> **Strategy** - This indicates the imputation strategy
+> **Strategy**       - This indicates the imputation strategy
 
->               : Takes in String as input, default = **'mean'** 
+>               : Takes in String as input, default = 'mean' 
 >           
->               : If **“mean”**, then replace missing values using the mean along each column. Can only be used with numeric data.
+>               : If “mean”, then replace missing values using the mean along each column. Can only be used with numeric data.
 >               
->               : If **“median”**, then replace missing values using the median along each column. Can only be used with numeric data.
+>               : If “median”, then replace missing values using the median along each column. Can only be used with numeric data.
 >               
->               : If **“most_frequent”**, then replace missing using the most frequent value along each column. 
+>               : If “most_frequent”, then replace missing using the most frequent value along each column. 
 >                 Can be used with strings or numeric data. If there is more than one such value, only the smallest is returned.
 >               
->               : If **“constant”**, then replace missing values with fill_value. Can be used with strings or numeric data. 
+>               : If “constant”, then replace missing values with fill_value. Can be used with strings or numeric data. 
 
+Wanna learn more? Click here [SimpleImputer()](https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html)
 
