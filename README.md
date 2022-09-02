@@ -54,4 +54,10 @@ So why exactly? There is a popular saying that goes as
 
 <p align='center'><img width="520" alt="Handling Missing Datas" src="https://user-images.githubusercontent.com/71865643/187905086-09ac03a1-ea51-4538-857a-3f7ffa082150.png"></p>
 
+**SimpleImputer() Parameters:**
+
+> **missing_values** - For pandas dataframes with nullable integer dtypes with missing values, missing_values can be set to either np.nan or pd.NA.
+> **Strategy** - This indicates the imputation strategy
+>               : Takes in String as input, default = 'mean' <sub>Mean is the average of the given numbers and is calculated by dividing the sum of given numbers by the total number of numbers.</sub>
+
 
