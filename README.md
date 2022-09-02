@@ -102,3 +102,9 @@ Wanna learn more? Click here [LabelEncoder()](https://scikit-learn.org/stable/mo
 </p>
 </details>
 
+## Data Preprocessing - Step 4 - Splitting Dataset for Testing and Training
+
+> We make two partitions of dataset, one partition for training and other for testing the performance of the trained model. General split of trained set : test set is 80:20.
+
+**How**
+> The train_test_split function of the sklearn.model_selection package in Python splits arrays or matrices into random subsets for train and test data, respectively.
