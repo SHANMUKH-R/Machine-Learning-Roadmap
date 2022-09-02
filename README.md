@@ -89,5 +89,5 @@ Wanna learn more? Click here [SimpleImputer()](https://scikit-learn.org/stable/m
 
 <p align="center"><img width="520" alt="Encoding Dependent Categorical Data" src="https://user-images.githubusercontent.com/71865643/188054605-895cda6b-9a69-4c58-9644-042d79f78110.png"></p>
 
-Wanna learn more? Click here [LabelEncoder()]([https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html))
+Wanna learn more? Click here [LabelEncoder()](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html)
 
