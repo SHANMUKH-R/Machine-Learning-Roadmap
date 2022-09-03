@@ -123,8 +123,11 @@ Wanna learn more? Click here [train_test_split()](https://scikit-learn.org/stabl
 <details><summary>Most Frequently asked question - Should dummy variables undergo feature scaling? </summary>
 <p>
 
+
 > No, if the variables are encoded or if they lie between -3 to +3.
   
 
 </p>
 </details>
+
+<p align="center"><img width="605" alt="Std and norm" src="https://user-images.githubusercontent.com/71865643/188279519-2bd2ca1f-856d-4db4-8546-50d7d84922bc.png"></p>
