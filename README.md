@@ -131,3 +131,14 @@ Wanna learn more? Click here [train_test_split()](https://scikit-learn.org/stabl
 </details>
 
 <p align="center"><img width="605" alt="Std and norm" src="https://user-images.githubusercontent.com/71865643/188279519-2bd2ca1f-856d-4db4-8546-50d7d84922bc.png"></p>
+
+| Normalization  | Standardization |
+| ------------- | ------------- |
+| Minimum and maximum value of features are used for scaling  | Mean and standard deviation is used for scaling.  |
+| It is used when features are of different scales.  | It is used when we want to ensure zero mean and unit standard deviation.  |
+| Scales values between [0, 1] or [-1, 1]. | It is not bounded to a certain range.  |
+| It is really affected by outliers.  | It is much less affected by outliers.  |
+| Scikit-Learn provides a transformer called MinMaxScaler for Normalization.  | Scikit-Learn provides a transformer called StandardScaler for standardization.  |
+| It is useful when we don’t know about the distribution  | It is useful when the feature distribution is Normal or Gaussian.  |
+| It is a often called as Scaling Normalization  | It is a often called as Z-Score Normalization.  |
+
