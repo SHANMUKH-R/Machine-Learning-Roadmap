@@ -142,3 +142,5 @@ Wanna learn more? Click here [train_test_split()](https://scikit-learn.org/stabl
 | It is useful when we don’t know about the distribution  | It is useful when the feature distribution is Normal or Gaussian.  |
 | It is a often called as Scaling Normalization  | It is a often called as Z-Score Normalization.  |
 
+<p align="center"><img width="805" alt="Standard Scalar" src="https://user-images.githubusercontent.com/71865643/188280063-d76d7338-23e3-49a3-b72a-5fed53d1d99a.png"></p>
+
