@@ -119,3 +119,12 @@ Wanna learn more? Click here [train_test_split()](https://scikit-learn.org/stabl
 
 **why**
 > For most of the ML models, feature scaling is necessary to ensure that few features don't dominate others in such a way that they aren't even considered by ML model.
+
+<details><summary>Most Frequently asked question - Should dummy variables undergo feature scaling? </summary>
+<p>
+
+> No, if the variables are encoded or if they lie between -3 to +3.
+  
+
+</p>
+</details>
