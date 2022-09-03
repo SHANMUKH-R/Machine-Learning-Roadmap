@@ -115,3 +115,7 @@ Wanna learn more? Click here [LabelEncoder()](https://scikit-learn.org/stable/mo
 Wanna learn more? Click here [train_test_split()](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
 
 
+## Data Preprocessing - Step 5 - Feature Scaling
+
+**why**
+> For most of the ML models, feature scaling is necessary to ensure that few features don't dominate others in such a way that they aren't even considered by ML model.
