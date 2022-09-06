@@ -144,3 +144,8 @@ Wanna learn more? Click here [train_test_split()](https://scikit-learn.org/stabl
 
 <p align="center"><img width="805" alt="Standard scalar" src="https://user-images.githubusercontent.com/71865643/188280208-2c894e2e-ef80-4f1d-bd1a-ac540ade26c6.png"></p>
 
+## Simple Linear Regression
+
+> Simple Linear Regression estimates the relationship between dependent and independent variable by assuming their relation as a linear funtion (straight line).
+
+> To discuss about this in depth, we try to deduce the straight line, a function that has least distance from the plotted data points of dependent variable and independent variable. This regression line will give us the least error between observed value and predicted value.
