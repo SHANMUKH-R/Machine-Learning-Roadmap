@@ -150,4 +150,4 @@ Wanna learn more? Click here [train_test_split()](https://scikit-learn.org/stabl
 
 > To discuss about this in depth, we try to deduce a straight line, a function that has least distance from the plotted data points of dependent variable and independent variable. This regression line will give us the least error between observed value and predicted value.
 
-> y<sub>o</sub> = b<sub>o</sub>X<sub>i</sub>
+> y<sub>o</sub> = b<sub>o</sub>+  b<sub>1</sub>X<sub>i</sub>
